@@ -43,7 +43,7 @@ Try to fill complete rows with the falling shapes to score points!
 - `main()`: Initializes the game, creates the board, and runs the main game loop.
 - `CreateBoard()`: Sets up the game board.
 - `PrintBoard()`: Displays the current state of the board.
-- `MoveShapeDown()`, `CanMoveDown()`, `MoveShapeLeft()`, `MoveShapeRight()`: Functions for controlling shape movement and collision detection.
+- `MoveShapeDown()`, `MoveShapeLeft()`, `MoveShapeRight()`: Functions for controlling shape movement and collision detection.
 - `RotateShape()`: Handles rotation of the current shape.
 - `ClearFullRows()`: Clears completed rows and updates the score.
 
